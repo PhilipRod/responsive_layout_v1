@@ -125,6 +125,11 @@ footer nav ul{
     padding:1rem 1.5rem;
 }
 
+footer .logo,
+footer a.btn-top {
+    padding: 20px 10px;
+}
+
 
 
 
